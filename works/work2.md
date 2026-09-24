@@ -1,6 +1,7 @@
 # 第2次作業(4%)
 - 學號：11515159
 - 姓名：林呈諭
+- 信箱：eric951122@gmail.com
 
 ## 作業目標
 1. VSCode安裝：🔗[https://code.visualstudio.com/Download](https://code.visualstudio.com/Download)
